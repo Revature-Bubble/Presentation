@@ -1,9 +1,3 @@
-# Team Leads
-- Diana (1)
-- Henry (2)
-- Mharvinn (3)
-- April (4)
-
 # Group Expectations
 
 ## Git Standards
