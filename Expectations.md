@@ -17,6 +17,8 @@
 - All features submitted for review should be fully commented with javadoc style comments
 
 ## Braches
+- prod
+- staging
 - dev-login
 - dev-register
 - dev-profile
