@@ -10,18 +10,6 @@
 - Submit a merge request to the staging branch when a feature is up for review
 - All features submitted for review should be fully commented with javadoc style comments
 
-## Braches
-- prod
-- staging
-- dev-login
-- dev-register
-- dev-profile
-- dev-create-post
-- dev-feed
-- dev-followers
-- dev-like-post
-- dev-comments
-
 ## Work Standards
 - Only spend at max 5 hrs working outside of work hours (9-5 cst)
 - Standard timezone is cst
