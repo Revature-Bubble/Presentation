@@ -1,0 +1,12 @@
+- [x] Technologies Utilized
+- [x] GitFlow and Branching Strategies
+- [x] Team Structure
+- [ ] Architecture Diagram
+- [ ] Code Test Coverage
+- [ ] Pipeline Build Statistics
+- [ ] Agile/Scrum Implementation
+- [ ] ERD Diagram
+- [ ] List of Features Implemented
+- [ ] Outstanding Defects & Issues
+- [ ] Challenges Faced
+- [ ] Thorough project demo
