@@ -1,5 +1,5 @@
 # Team Structure
-\* scrummaster
+\* SCRUM Master
 ** Team Lead
 ## Team 1
 ### Members
