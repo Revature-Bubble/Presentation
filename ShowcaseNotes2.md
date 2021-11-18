@@ -6,7 +6,6 @@
 - Do not talk off a script while speaking, look at camera and attempt to connect with audience (try and watch other team members)
 - Do not thank people for listening after you are done talking
 
-
 # Definitely
 - Begin with introductions
 - Architecture Diagram
@@ -19,7 +18,6 @@
 - Politely pass back to Carolyn
 - Outline Q&A Guidelines aka raise hand
 - Be confident when answering!! Stand by your choices!!
-
 
 # Maybe
 - Dark mode
