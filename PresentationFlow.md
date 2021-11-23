@@ -1,0 +1,12 @@
+# Flow
+ - Carly: Project Intro
+ -- Intros --
+ - Mharvinn: Sprint/SCRUM pointing and micros
+ - April: Git Flow and Branching
+ - Dalton: Feature and Story Transition
+ - Fanzhong: Register, Follow, Login story part
+ - Renhan: Responsive Design, Write Comment, create a post, end demo
+ - Abdhir: Technology Stack
+ - 
+ - Kaleb: Testing
+ - Diana: Bugs
