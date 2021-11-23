@@ -20,6 +20,5 @@
 - Be confident when answering!! Stand by your choices!!
 
 # Maybe
-- Dark mode
 - Suggested Questions (Is that too cheeky?)
 - --> Can allow people to prep and show off
