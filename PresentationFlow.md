@@ -1,5 +1,5 @@
 # Flow
- - Carly: Project Intro
+ - Carly: Project Intro/Closing
  -- Intros --
  - Mharvinn: Sprint/SCRUM pointing and micros
  - April: Git Flow and Branching
@@ -7,6 +7,11 @@
  - Fanzhong: Register, Follow, Login story part
  - Renhan: Responsive Design, Write Comment, create a post, end demo
  - Abdhir: Technology Stack
- - 
+ - Michael: Entity Relationship Diagrams
+ - Henry: Architecture
  - Kaleb: Testing
+ - Zhenwen: Pipelines (Back and Front)
  - Diana: Bugs
+ - Ademola: Challenges
+ - James: Highlights
+ - Dhrubo: Acknowledgements
